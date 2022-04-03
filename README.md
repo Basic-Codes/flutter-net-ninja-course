@@ -4,4 +4,4 @@
 
 ## Screenshot
 
-<p align="center"><a href="/" target="_blank"><img src="Screenshot.png" width="800"></a></p>
+<p align="center"><a href="/" target="_blank"><img src="Screenshot.png" width="300"></a></p>
